@@ -491,6 +491,11 @@ mark,
   height: auto;
 }
 
+.img-movie-shots{
+    max-width: 200px;
+    height: auto;
+}
+
 .figure {
   display: inline-block;
 }
